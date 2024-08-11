@@ -1,2 +1,2 @@
 # code-with-pratik
-this is a professional class
+this is a professional class.
